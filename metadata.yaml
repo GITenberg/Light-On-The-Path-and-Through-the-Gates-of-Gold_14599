@@ -1,0 +1,28 @@
+_repo: Light-On-The-Path-and-Through-the-Gates-of-Gold_14599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, Mabel
+    birthdate: 1851
+    deathdate: 1927
+    gutenberg_agent_id: '5586'
+    url: http://www.gutenberg.org/2009/agents/5586
+description: ''
+gutenberg_issued: '2005-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'New Thought'
+- !lcc 'BF'
+- !lcsh 'Theosophy'
+title: Light On The Path and Through the Gates of Gold
+url: http://www.gutenberg.org/ebooks/14599
